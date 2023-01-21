@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400&display=swap');
+
+
+@import "./header.css";
+@import "./buttons.css";
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font-family: 'Source Sans Pro', sans-serif;
+  font: inherit;
+  vertical-align: baseline;
+  text-decoration: none;
+}
+
+
+body {
+  background: rgb(165, 100, 111);
+
+
+}
+
+
+
+
+
+
+/*.box {
+  background-color: crimson;
+
+  margin: 150px 10px 30px 50px;
+  padding: 30px 50px 45px 50px;
+  border-top: 20px solid indianred;
+  border-right: 10px solid indianred;
+  border-left: 15px solid indianred;
+  border-bottom: 4px solid indianred;
+}*/
