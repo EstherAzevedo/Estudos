@@ -32,5 +32,11 @@
 }
 
 .sobre-web-design figcaption img {
-  width: 700px;
+  width: 100%;
+  margin: 30px 0 0 0;
+}
+
+footer .row {
+  flex-direction: row;
+  justify-content: center;
 }
